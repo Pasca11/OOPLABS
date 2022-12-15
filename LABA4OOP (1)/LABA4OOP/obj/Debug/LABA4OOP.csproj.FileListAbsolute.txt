@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\bin\Debug\LABA4OOP.exe.config
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\bin\Debug\LABA4OOP.exe
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\bin\Debug\LABA4OOP.pdb
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.Form1.resources
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.Properties.Resources.resources
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.exe
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.pdb
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\bin\Debug\MyLib.dll
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\bin\Debug\MyLib.pdb
+C:\Users\user\source\repos\LABA4OOP\LABA4OOP\obj\Debug\LABA4OOP.csproj.CopyComplete

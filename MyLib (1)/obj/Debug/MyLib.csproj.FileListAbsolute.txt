@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\LABA2OOP\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LABA2OOP\MyLib\bin\Debug\MyLib.dll
+C:\Users\user\source\repos\LABA2OOP\MyLib\bin\Debug\MyLib.pdb
+C:\Users\user\source\repos\LABA2OOP\MyLib\obj\Debug\MyLib.dll
+C:\Users\user\source\repos\LABA2OOP\MyLib\obj\Debug\MyLib.pdb
+C:\Users\user\source\repos\LABA2OOP\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache

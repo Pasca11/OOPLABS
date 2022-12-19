@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\bin\Debug\LABA2.2OOP.exe.config
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\bin\Debug\LABA2.2OOP.exe
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\bin\Debug\LABA2.2OOP.pdb
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\bin\Debug\MyLib.dll
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\bin\Debug\MyLib.pdb
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2.2OOP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2._2OOP.Form1.resources
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2._2OOP.Properties.Resources.resources
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2.2OOP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2.2OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2.2OOP.csproj.CopyComplete
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2.2OOP.exe
+C:\Users\user\source\repos\LABA2.2OOP\LABA2.2OOP\obj\Debug\LABA2.2OOP.pdb

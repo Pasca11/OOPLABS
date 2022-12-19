@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABA2.2OOP", "LABA2.2OOP\LABA2.2OOP.csproj", "{6A15C0CC-DC31-4C7B-9B59-B9395A68FEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "..\LABA2OOP\MyLib\MyLib.csproj", "{2620C72B-BF54-4921-8614-18898E537B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A15C0CC-DC31-4C7B-9B59-B9395A68FEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A15C0CC-DC31-4C7B-9B59-B9395A68FEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A15C0CC-DC31-4C7B-9B59-B9395A68FEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A15C0CC-DC31-4C7B-9B59-B9395A68FEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2620C72B-BF54-4921-8614-18898E537B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2620C72B-BF54-4921-8614-18898E537B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2620C72B-BF54-4921-8614-18898E537B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2620C72B-BF54-4921-8614-18898E537B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EBDAAF5-CF32-4EBC-8D8F-C4178FE16E55}
+	EndGlobalSection
+EndGlobal
